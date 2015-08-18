@@ -1,5 +1,5 @@
 # CheQuera
-Proposal: copyleft tool to enable people to do surveilance protected online banking
+Proposal: copyleft tool to enable people to do surveillance protected online banking
 
 Project inception: github creation date of this branch
 
